@@ -5,7 +5,7 @@ author: "Filipe Rodrigues da Costa"
 institute: "ISCET, ISCAP, CEFUP"
 format:
   revealjs:
-    theme: [white, css/theme-light.css]
+    theme: [white]
     slide-number: true
     scrollable: true
     toc: true
