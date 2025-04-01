@@ -1,0 +1,19 @@
+.reveal {
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  color: #1a1a1a;
+}
+.reveal h1, .reveal h2, .reveal h3 {
+  font-weight: 700;
+  color: #004080;
+}
+.reveal .cover-slide {
+  background-color: #002b36;
+  color: white;
+  text-align: center;
+  padding-top: 150px;
+}
+.reveal .cover-slide h2, 
+.reveal .cover-slide h3 {
+  color: white;
+}

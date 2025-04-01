@@ -1,0 +1,88 @@
+---
+title: "{{title}}"
+subtitle: "{{subtitle}}"
+author: "Filipe Rodrigues da Costa"
+institute: "Faculty of Economics, Mendel University"
+format:
+  revealjs:
+    theme: [white, css/theme-light.css]
+    slide-number: true
+    scrollable: true
+    toc: true
+    toc-title: "Contents"
+    width: 960
+    height: 540
+    margin: 0.1
+    css: 
+      - css/layout.css
+      - css/components.css
+    logo: images/logo.png
+---
+
+<!-- Cover Slide -->
+<section class="cover-slide">
+  <h2>{{title}}</h2>
+  <h3>{{subtitle}}</h3>
+  <p>Mendel University — April 2025</p>
+</section>
+
+---
+
+## Learning Objectives
+
+- ☐ Introduce the topic and context  
+- ☐ Define key concepts clearly  
+- ☐ Show practical examples or visualisations  
+- ☐ Include academic or empirical evidence  
+
+---
+
+## Section Title {.section-slide}
+
+Use this slide to break major sections in the presentation.
+
+---
+
+## Concept Explanation
+
+Define a key concept here using a list, quote, diagram or callout.
+
+---
+
+## Evidence or Quote
+
+<div class="quote-box">
+  “ETFs account for over 50% of trading volume in some European exchanges.”  
+  <br>– ESMA Report, 2023
+</div>
+
+---
+
+## Summary Callout
+
+::: {.summary}
+- ETFs are transparent and efficient  
+- Choose based on replication, costs, and domicile  
+:::
+
+---
+
+## Data Table
+
+| Ticker | Name           | TER    | Domicile |
+|--------|----------------|--------|----------|
+| VUSA   | S&P 500 UCITS  | 0.07%  | Ireland  |
+| CSPX   | S&P 500 UCITS  | 0.07%  | Ireland  |
+
+---
+
+## Image or Visualisation
+
+![ETF Trends](images/etf-trends.png)
+
+---
+
+## Thank You
+
+Contact: [fcosta@iscet.pt](mailto:fcosta@iscet.pt)  
+More at [filcos.pt](https://filcos.pt)
