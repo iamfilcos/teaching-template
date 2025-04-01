@@ -2,7 +2,7 @@
 title: "{{title}}"
 subtitle: "{{subtitle}}"
 author: "Filipe Rodrigues da Costa"
-institute: "Faculty of Economics, Mendel University"
+institute: "ISCET, ISCAP, CEFUP"
 format:
   revealjs:
     theme: [white, css/theme-light.css]
@@ -23,7 +23,7 @@ format:
 <section class="cover-slide">
   <h2>{{title}}</h2>
   <h3>{{subtitle}}</h3>
-  <p>Mendel University — April 2025</p>
+  <p>Faculty of Economics — April 2025</p>
 </section>
 
 ---
